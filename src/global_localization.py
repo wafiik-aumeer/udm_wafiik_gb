@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-from udm_group2_gb.srv import *
+from udm_wafiik_gb.srv import *
 import rospy
 import rosservice
 from std_srvs.srv import Empty
