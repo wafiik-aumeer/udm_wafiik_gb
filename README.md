@@ -1,6 +1,7 @@
 
 ##udm_wafik_gb est un noeud utilisant global_localization pour localiser le robot dans une carte connue en appelant les services necessaires.
 #Pour uploader le fichier faire les commandes ci-dessous:
+
 cd catkin_ws/src
 
 git clone https://github.com/wafiik-aumeer/udm_wafiik_gb.git
